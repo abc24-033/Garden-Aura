@@ -25,3 +25,16 @@ body { font-family: 'Poppins', sans-serif; background: #fffaf5; color:#333; }
 footer { background:#333; color:#fff; padding:20px; text-align:center; margin-top:40px; }
 footer .socials a { margin:0 10px; color:#f8c8d8; text-decoration:none; }
 footer .socials a:hover { color:#d4af37; }
+
+*about page*/
+   margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Poppins',sans-serif; background:#fffaf5; color:#333; line-height:1.6; }
+
+.hero.small {
+  height:40vh; background:#9abf88; display:flex; justify-content:center; align-items:center; color:#fff;
+}
+.hero h1 { font-family:'Playfair Display', serif; font-size:2rem; }
+
+.content { max-width:1000px; margin:40px auto; padding:0 20px; font-size:1.1rem; line-height:1.8; }
+
+footer { background:#333; color:#fff; padding:20px; text-align:center; margin-top:40px; }
